@@ -1,0 +1,19 @@
+order_id,customer,region,product,quantity,unit_price,order_date
+1,John Smith,North,Widget A,5,10.99,2024-01-05
+2,  Jane Doe,south,Widget B,3,15.50,2024-01-06
+3,Bob Lee,NORTH,Widget A,,12.00,2024-01-06
+4,Alice Wong,South ,Widget C,7,,2024-01-07
+1,John Smith,North,Widget A,5,10.99,2024-01-05
+6,Charlie Kim,east,Widget B,2,15.50,2024-01-08
+7,Dana Park,East,Widget D,500,9.99,2024-01-08
+8,Eli Chen, west ,Widget C,4,,2024-01-09
+9,Fay Nguyen,West,Widget A,6,10.99,2024-01-10
+10,Grace Kim,north,Widget B,,15.50,2024-01-10
+11,Henry Ford,South,Widget D,8,9.99,2024-01-11
+12,Ivy Zhao,East,Widget C,3,11.25,2024-01-11
+2,  Jane Doe,south,Widget B,3,15.50,2024-01-06
+14,Karl Meyer,West,Widget A,9,10.99,2024-01-12
+15,Liam Yu,North,Widget B,4,15.50,2024-01-12
+16,Mia Torres,East,Widget D,,9.99,2024-01-13
+17,Noah Kim,south,Widget C,5,11.25,2024-01-13
+18,Olivia Cruz,West,Widget A,6,10.99,2024-01-14
